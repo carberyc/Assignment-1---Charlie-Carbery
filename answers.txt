@@ -1,0 +1,6 @@
+Assignment #1 Answers
+Charlie Carbery
+
+3) The local process ran in 2 minutes 11.829 seconds. The EMR process ran in 12 minutes 31.767 seconds. 
+4) There were 2042 "address" tags in the input.
+5) Both the local and EMR version gave the same answer.
